@@ -1,0 +1,22 @@
+{
+  "name": "ravi",
+  "version": "1.0.0",
+  "description": "This repository consists of simple node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarshaPatil22497/ravi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarshaPatil22497/ravi/issues"
+  },
+  "homepage": "https://github.com/VarshaPatil22497/ravi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
